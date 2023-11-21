@@ -1,4 +1,6 @@
 # frost
+https://orcacore.com/install-configure-xwiki-ubuntu-22-04/
+
 https://idroot.us/install-xwiki-ubuntu-22-04/
 server {
        listen 80;
